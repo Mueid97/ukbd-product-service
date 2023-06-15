@@ -1,0 +1,252 @@
+.container{
+    position: relative;
+    text-align: center;   
+}
+
+.londondhaka_bg_img{
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.londondhaka_logo{
+    top: 30%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
+.londondhaka_title{
+    position: absolute;
+    top: 33%;
+    left: 27%;
+    font-size: 36px;
+    color: rgba(255, 0, 0, 0.50);
+    word-wrap: normal;
+    line-height: 40px;
+    width: 700px;
+   
+}
+.londondhaka_icon{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    padding: 10px;
+    border: none;
+    background: none;
+    font-size: x-large;
+    color: #ff0000;
+}
+
+.bd_flag{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    bottom: 5px;
+    
+    object-fit: cover;
+}
+.uk_flag{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    bottom: 5px;
+    
+    object-fit: cover;
+}
+
+.londondhaka_flag{
+    position: absolute;
+    bottom: 5px;
+    left: 49%;
+    margin-left: 3px;
+    gap: 36px;
+    display: flex;
+}
+
+
+
+/*UKCA*/
+
+.ukca_bg_img{
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.ukca_logo{
+    top: 30%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
+.ukca_title{
+    position: absolute;
+    top: 33%;
+    left: 25%;
+    font-size: 36px;
+    color: #ff0000;
+    word-wrap: normal;
+    line-height: 40px;
+    width: 700px;
+    font-weight: 400;
+   
+}
+.ukca_icon{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    padding: 10px;
+    border: none;
+    background: none;
+    font-size: x-large;
+    color: #ff0000;
+}
+
+.ukca_all_flag{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    bottom: 5px;
+    object-fit: cover;
+}
+.uk_flag{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    bottom: 5px;
+    left: 5px;
+    object-fit: cover;
+}
+
+
+.ukca_flag{
+    position: absolute;
+    bottom: 5px;
+    right: 2%;
+    margin-left: 3px;
+    gap: 31px;
+    display: flex;
+}
+
+/*UKBR*/
+
+.ukbr_bg_img{
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.ukbr_logo{
+    top: 30%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
+.ukbr_title{
+    position: absolute;
+    top: 33%;
+    left: 27%;
+    font-size: 36px;
+    color: rgba(255, 0, 0, 0.50);
+    word-wrap: normal;
+    line-height: 40px;
+    width: 700px;
+   
+}
+.ukbr_icon{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    padding: 10px;
+    border: none;
+    background: none;
+    font-size: x-large;
+    color: #ff0000;
+}
+
+.bd_flag{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    bottom: 5px;
+    
+    object-fit: cover;
+}
+.uk_flag{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    bottom: 5px;
+    
+    object-fit: cover;
+}
+
+.ukbr_flag{
+    position: absolute;
+    bottom: 5px;
+    left: 49%;
+    margin-left: 3px;
+    gap: 36px;
+    display: flex;
+}
+
+/*USBD*/
+.usbd_bg_img{
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.usbd_logo{
+    top: 30%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+}
+.usbd_title{
+    position: absolute;
+    top: 33%;
+    left: 27%;
+    font-size: 36px;
+    color: rgba(255, 0, 0, 0.50);
+    word-wrap: normal;
+    line-height: 40px;
+    width: 700px;
+   
+}
+.usbd_icon{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    padding: 10px;
+    border: none;
+    background: none;
+    font-size: x-large;
+    color: #ff0000;
+}
+
+.bd_flag{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    bottom: 5px;
+    
+    object-fit: cover;
+}
+.uk_flag{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    bottom: 5px;
+    
+    object-fit: cover;
+}
+
+.usbd_flag{
+    position: absolute;
+    bottom: 5px;
+    left: 49%;
+    margin-left: 3px;
+    gap: 36px;
+    display: flex;
+}

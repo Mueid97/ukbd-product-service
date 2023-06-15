@@ -1,23 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+
+import Home from './Pages/Home';
+import LondonDhaka from './Pages/LondonDhaka';
+import ProductService from './Pages/ProductService';
+import UkBr from './Pages/UkBr';
+import UkCa from './Pages/UkCa';
+import UsBd from './Pages/UsBd';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+      <div>
+        <Home></Home>
+        <ProductService></ProductService>
+        <LondonDhaka></LondonDhaka>
+        <UkCa></UkCa>
+        <UkBr></UkBr>
+        <UsBd></UsBd>
+      </div>
     </div>
   );
 }

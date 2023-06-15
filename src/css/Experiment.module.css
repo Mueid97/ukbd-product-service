@@ -1,0 +1,44 @@
+.container{
+    position: relative;
+    text-align: center;   
+}
+
+.bg_img{
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    opacity: 0.3;
+}
+.home_bg_img{
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.product_service_title{
+    position: absolute;
+    top: 6%;
+    left: 34%;
+    font-size: xx-large;
+    font-weight: 100;
+    color: #052f78;
+    text-transform: uppercase;
+     font-family: var(--robotoC);
+}
+
+.product_service_main{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    text-align: right;
+}
+.product_service_main_right{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+}
